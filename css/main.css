@@ -104,6 +104,27 @@ h1 strong{
 .row{
 	margin:0;
 }
+.logo{
+	width:80px;
+	height:80px;
+	margin:10px;
+}
+.social_twitter_circle{
+	font-size:80px;
+}
+.parrafo{
+	width:600px;
+	height:80px;
+	margin-left:20px;
+}
+.parrafo , .logo{
+	display:inline-block;
+}
+
+
+
+
+
 
 
 
