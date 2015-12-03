@@ -1,5 +1,5 @@
 *{
-	outline:1px solid red;
+
 	margin:0;
 	padding:0;
 
@@ -65,9 +65,11 @@
 }
 .boton-1{
 	background-color:grey;
-	border-radius:8px;
-	border:1px solid black;
-	width:55px;
+	border-radius:5px;
+	
+	width:75px;
+	height:25px;
+	color:white;
 }
 .menu{
 	
