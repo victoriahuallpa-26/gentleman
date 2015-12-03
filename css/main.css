@@ -1,0 +1,30 @@
+*{
+	outline:1px solid red;
+}
+.contenedor{
+	width:100%;
+	height:1200px;
+	background-color:grey;
+}
+.contenedor-imagen{
+	width:500px;
+	height:300px;
+
+}
+.imagen{
+	width:500px;
+	height:300px;
+}
+.contenedor-1{
+	width:80%;
+	height:1000px;
+	background-color:white;
+}
+.menu{
+	
+	background-color:grey;
+}
+.menu-1{
+	background-color:grey;
+	height:100px;
+}
