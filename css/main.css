@@ -1,5 +1,5 @@
 *{
-
+    outline:1px solid red;
 	margin:0;
 	padding:0;
 
@@ -45,17 +45,23 @@
 .ajustado{
 	width:300px;
 }
+.ajustado-1{
+    margin-left:20px;
+    color:grey;
+}
 .contenedor-3{
 	width:70%;
 	height:100px;
 	background-color:white;
 	margin:0 auto;
+	border-bottom:1px solid grey;
 }
 .contenedor-4{
 	width:70%;
 	height:200px;
 	background-color:white;
 	margin:0 auto;
+
 }
 .contenedor-5{
 	width:100%;
@@ -66,10 +72,22 @@
 .boton-1{
 	background-color:grey;
 	border-radius:5px;
-	
-	width:75px;
+    width:75px;
 	height:25px;
 	color:white;
+}
+.boton-2{
+	background-color:#424242;
+
+	border-radius:5px;
+	width:75px;
+	height:30px;
+	color:white;
+}
+.boton{
+	width:80px;
+	height:50px;
+	margin:0 auto;
 }
 .menu{
 	
@@ -84,6 +102,7 @@ h1 strong{
 	color:white;
 }
 .menu-1{
+	height:57px;
 	background-color:#424242;
 }
 .lista-menu{
@@ -109,7 +128,8 @@ h1 strong{
 .logo{
 	width:80px;
 	height:80px;
-	margin:10px;
+	margin-left:50px;
+	
 }
 .social_twitter_circle{
 	font-size:80px;
@@ -117,11 +137,24 @@ h1 strong{
 .parrafo{
 	width:600px;
 	height:80px;
-	margin-left:20px;
+	margin-left:100px;
 }
 .parrafo , .logo{
 	display:inline-block;
+	
 }
+.social_googleplus_circle{
+	font-size:20px;
+	margin-left:5px;
+
+}
+.iconos-abajo{
+	width:200px;
+	height:40px;
+	margin-left:250px;
+
+}
+
 
 
 
