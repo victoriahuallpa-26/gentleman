@@ -4,9 +4,7 @@ body{
 	font-size: 15px;
 	font-family: Verdana;
 }
-{
-	outline: 1px solid red;
-}
+
 li{
 	list-style-type:none; 
 }
