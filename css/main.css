@@ -1,3 +1,6 @@
+*{
+	outline:1px solid red;
+}
 body{
 	padding: 0;
 	margin: 0;
@@ -19,7 +22,7 @@ a{
 	font-size: 40px;
 }
 .logo{
-	font-size: 40px;
+	font-size:30px;
 	display: inline-block;	
 }
 .logo2{
@@ -87,8 +90,9 @@ hr{
 	color: gray;
 }
 .mg0auto{
-	left: 45%;
-	position: relative;
+    width:150px;
+	margin:0 auto;
+	margin-top:40px;
 }
 .radius{
 	border-radius: 25%;
